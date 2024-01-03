@@ -17,6 +17,7 @@ public class MergeSortedArray {
 
     /*
      * Not too straightforward, but easy
+     * Start from the end because we are reusing one of the arrays
      * O(m+n) time
      * O(1) space
      */
